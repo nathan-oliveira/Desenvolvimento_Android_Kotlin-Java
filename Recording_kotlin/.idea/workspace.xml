@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="933fc9b8-3d63-40fb-b5fd-66ea3bc49a3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s581srDz49pIEXhFaxndAkBRhI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$KOTLIN_BUNDLED$/lib/kotlin-test-junit.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nathan_oliveira\Desktop\Projetos\Kotlin\Recording\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.ParametrosKt">
+    <configuration name="ConversaoValoresKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Recording" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ConversaoValoresKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlowWhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Recording" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FlowWhileKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Recording" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParametrosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Recording" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ParametrosKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ParametrosKt" />
+        <item itemvalue="Kotlin.ConversaoValoresKt" />
+        <item itemvalue="Kotlin.FlowWhileKt" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="933fc9b8-3d63-40fb-b5fd-66ea3bc49a3a" name="Default Changelist" comment="" />
+      <created>1620150878046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620150878046</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1346" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1621003567267">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1346" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1621003567267" />
+    <state x="-1526" y="154" key="FileChooserDialogImpl" timestamp="1620927089639">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1526" y="154" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1620927089639" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1620934929973">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1620934929973" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1536.824@0.0.1280.680" timestamp="1620161670929" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1620934929972">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1620934929972" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1536.824@0.0.1280.680" timestamp="1620161670928" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1620934929972">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1620934929972" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1536.824@0.0.1280.680" timestamp="1620161670928" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1620934929972">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1620934929972" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1536.824@0.0.1280.680" timestamp="1620161670928" />
+    <state x="232" y="0" width="914" height="680" key="SettingsEditor" timestamp="1621274590369">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-1642" y="10" width="1038" height="707" key="SettingsEditor/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1620927367361" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/-1920.0.1536.824@0.0.1280.680" timestamp="1620153321841" />
+    <state x="232" y="0" width="914" height="680" key="SettingsEditor/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1621274590369" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1621361220364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-1516" y="200" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1620996141459" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-1920.0.1536.824@0.0.1280.680" timestamp="1620829550779" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1621361220364" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1621037277325" />
+    <state x="-1297" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1620927253256">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1297" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680/-1920.0.1536.824@-1920.0.1536.824" timestamp="1620927253256" />
+    <state x="232" y="0" key="new project wizard" timestamp="1621361521199">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="232" y="0" key="new project wizard/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1621361521199" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1620160607719">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680/-1920.0.1536.824@0.0.1280.680" timestamp="1620160607719" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1621283815335">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1621283815335" />
+  </component>
+</project>
