@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="mCustomEditText" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/textGray</item>
+        <item name="android:textColorHint">@color/darkGray</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:background">@drawable/round_et</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="mCustomLabelText" parent="@android:style/TextAppearance">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginTop">2dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/darkGray</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+</resources>
